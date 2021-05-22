@@ -1,0 +1,2 @@
+Jogo desenvolvido no primeiro semestre da faculdade de ciencia da computação.
+Não portavel por conter conio2.
